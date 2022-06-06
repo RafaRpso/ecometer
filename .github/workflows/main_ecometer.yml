@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Ecometer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_311F7371C48E4577AD4E0A3401C53091 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF382C05C0794CC1989CC85ECF8A82DB }}
           package: .
