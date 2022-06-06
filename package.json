@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node ./ecometerSite/app.js",
     "postinstall": "cd ecometerSite && npm i",
-    "dev": "nodemon --exec node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon --exec node app.js"
   },
   "author": "Feito pelos desenvolvedores @ Bandtec Digital School",
   "license": "MIT",
