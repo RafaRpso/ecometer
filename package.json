@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node ./site/app.js",
-    "postinstall": "cd site && npm i",
+    "postinstall": "cd site && npm install",
     "dev": "nodemon --exec node app.js"
   },
   "author": "Feito pelos desenvolvedores @ Bandtec Digital School",
